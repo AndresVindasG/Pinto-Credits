@@ -5,7 +5,7 @@ public class Keylor {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
-        System.out.print("¿Cómo te llamás? ");
+        System.out.print("¿Cómo te llamás? gay ");
         String nombre = teclado.nextLine();
 
         System.out.println("¡Hola, " + nombre + "!");
